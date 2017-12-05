@@ -9,7 +9,7 @@ permalink: /training_calendar/
 ###  January to April 2018
 
 
-If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
+If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.  If your organisation wishes to become a partner, please see [software-carpentry.org/membership](https://software-carpentry.org/membership/) or [datacarpentry.org/partnerships](http://www.datacarpentry.org/partnerships/).
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
